@@ -220,8 +220,8 @@ walmart-sales-analysis/
 
 **Contact:**  
 Jeremie Konan  
-GitHub: (https://github.com/Softwinnerr)
-LinkedIn:(https://linkedin.com/in/jeremie-konan)
-Email: jeremiesofty24@gmail.com
+- GitHub: (https://github.com/Softwinnerr)
+- LinkedIn:(https://linkedin.com/in/jeremie-konan)
+- Email: jeremiesofty24@gmail.com
 
 **Date de finalisation:** Novembre 2025

@@ -261,7 +261,7 @@ Il comprend :
 - [Documentation Pandas](https://pandas.pydata.org/docs/)
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
-- [Time Series Analysis](https://www.statsmodels.org/stable/tsa.html)
+- [Kaggle](https://www.kaggle.com)
 
 ---
 
